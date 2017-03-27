@@ -1,0 +1,788 @@
+cpt code  Major Category                                    Minor category                                    CPT description
+95909     Medicine                                          Neurology                                         95909 Motor&/sens 5-6 nrv cndj tst
+G0416     HCPCS Codes                                       Temporary Codes                                   G0416 Sat biopsy 10-20
+70355     Radiology                                         Head/Neck/Chest                                   70355 Panoramic X-Ray of Jaws 
+27096     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27096 Injection Procedure for Sacroiliac Joint
+97113     Medicine                                          Other                                             97113 Aquatic Therapy/Exercises 
+01810     Anesthesia                                        Anesthesia                                        01810 Anesth, Lower Arm Surgery 
+74160     Radiology                                         Abdomen/GI/Urinary                                74160 Contrast CAT Scan of Abdomen 
+92285     Medicine                                          Ophthalmology                                     92285 Eye Photography 
+J1100     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J1100 Dexamethasone sodium phos
+87086     Pathology                                         Microbiology                                      87086 Urine Culture, Colony Count 
+Q2035     HCPCS Codes                                       Temporary Codes                                   Q2035 Afluria vacc, 3 yrs & >, im
+83735     Pathology                                         Chemistry                                         83735 Assay Magnesium 
+74246     Radiology                                         Abdomen/GI/Urinary                                74246 Contrast X-Ray Upper GI Tract 
+82947     Pathology                                         Chemistry                                         82947 Assay Quantitative, Glucose 
+80156     Pathology                                         Pathology                                         80156 Assay Carbamazepine 
+93892     Medicine                                          Non-Invasive Vascular and Diagnostic              93892 Tcd, emboli detect w/o inj
+86255     Pathology                                         Immunology                                        86255 Fluorescent Antibody; Screen 
+77001     Radiology                                         Unknown                                           77001 Fluoroguide for vein device
+29130     Surgery                                           Muscuoskeletal - Casts/Strapping                  29130 Application of Finger Splint 
+33208     Surgery                                           Cardiovascular - Heart/Pericardum                 33208 Insertion of Heart Pacemaker 
+77059     Radiology                                         Unknown                                           77059 Mri both breasts
+91110     Medicine                                          Gastroenterology                                  91110 Gi tract capsule endoscopy
+82248     Pathology                                         Chemistry                                         82248 Bilirubin Direct 
+31579     Surgery                                           Respiratory System                                31579 Diagnostic Laryngoscopy 
+01996     Anesthesia                                        Anesthesia                                        01996 Manage Daily Drug Therapy 
+82270     Pathology                                         Chemistry                                         82270 Test Feces for Blood 
+29827     Surgery                                           Muscuoskeletal - Endoscopy/Arthroscopy            29827 Arthroscop rotator cuff repr
+85390     Pathology                                         Hematology/Coagulation                            85390 Fibrinolysins Screen 
+84075     Pathology                                         Chemistry                                         84075 Assay Alkaline Phosphatase 
+94640     Medicine                                          Pulmonary                                         94640 Airway Inhalation Treatment 
+99308     E&M                                               Low/Moderate Severity                             99308 Nursing fac care subseq
+93000     Medicine                                          Cardiovascular, Cardiography                      93000 Electrocardiogram, Complete 
+G0204     HCPCS Codes                                       Temporary Codes                                   G0204 Diagnosticmammographydigital
+11401     Surgery                                           Integumentary                                     11401 Removal of Skin Lesion 
+99218     E&M                                               Low/Moderate Severity                             99218 Observation Care 
+R0075     HCPCS Codes                                       Diag Radiology                                    R0075 Transport port x-ray multipl
+36478     Surgery                                           Cardiovascular - Arteries/Veins                   36478 Endovenous laser 1st vein
+11056     Surgery                                           Integumentary                                     11056 Trim 2 to 4 Skin Lesions 
+88360     Pathology                                         Surgical Pathology                                88360 Tumor immunohistochem/manual
+73200     Radiology                                         Upper Extremities                                 73200 CAT Scan of Arm 
+20550     Surgery                                           Muscuoskeletal - General                          20550 Inj Tendon/Ligament/Cyst 
+92133     Medicine                                          Ophthalmology                                     92133 Cmptr ophth img optic nerve
+76376     Radiology                                         Veins/Lymphatics                                  76376 3d render w/intrp postproces
+93660     Medicine                                          Cardiovascular, EPS                               93660 Tilt Table Evaluation 
+83690     Pathology                                         Chemistry                                         83690 Assay Lipase 
+72156     Radiology                                         MRI                                               72156 Magnetic Image, Neck Spine 
+74022     Radiology                                         Abdomen/GI/Urinary                                74022 X-Ray Exam Series, Abdomen 
+87075     Pathology                                         Microbiology                                      87075 Culture Specimen, Bacteria 
+72148     Radiology                                         MRI                                               72148 Magnetic Image, Lumbar Spine 
+23420     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                23420 Repair of Shoulder 
+93294     Medicine                                          Unknown                                           93294 Pm device interrogate remote
+J3420     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J3420 Vitamin b12 injection
+G0008     HCPCS Codes                                       Temporary Codes                                   G0008 Admin influenza virus vac
+99220     E&M                                               Moderate/High Severity                            99220 Observation Care 
+73110     Radiology                                         Upper Extremities                                 73110 X-Ray Exam of Wrist 
+25265     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                25265 Repair forearm tendon/muscle
+31541     Surgery                                           Respiratory System                                31541 Operative Laryngoscopy 
+83718     Pathology                                         Chemistry                                         83718 Blood Lipoprotein Assay 
+63047     Surgery                                           Nervous                                           63047 Removal of Spinal Lamina 
+87338     Pathology                                         Microbiology                                      87338 Hpylori, stool, eia
+11643     Surgery                                           Integumentary                                     11643 Removal of Skin Lesion 
+82040     Pathology                                         Chemistry                                         82040 Assay Serum Albumin 
+10060     Surgery                                           Integumentary                                     10060 Drainage of Skin Abscess 
+55700     Surgery                                           Male Genital System                               55700 Biopsy of Prostate 
+71010     Radiology                                         Head/Neck/Chest                                   71010 Chest X-Ray 
+45338     Surgery                                           Digestive - Rectum/Anus                           45338 Sigmoidoscopy 
+01270     Anesthesia                                        Anesthesia                                        01270 Anesth, Thigh Arteries Surg 
+84450     Pathology                                         Chemistry                                         84450 Transferase (AST) (SGOT) 
+83550     Pathology                                         Chemistry                                         83550 Iron Binding Test 
+88356     Pathology                                         Surgical Pathology                                88356 Analysis, Nerve 
+95885     Medicine                                          Neurology                                         95885 Musc tst done w/nerv tst lim
+76937     Radiology                                         Diagnostic Ultrasound                             76937 Us guide, vascular access
+82330     Pathology                                         Chemistry                                         82330 Assay Calcium 
+84146     Pathology                                         Chemistry                                         84146 Assay for Prolactin 
+82164     Pathology                                         Chemistry                                         82164 Angiotensin I Enzyme Test 
+76857     Radiology                                         Diagnostic Ultrasound                             76857 ECHO Exam of Pelvis 
+17312     Revenue Code                                      Revenue Code                                      17312 Mohs addl stage
+74328     Radiology                                         Abdomen/GI/Urinary                                74328 X-Ray for Bile Duct Endoscopy 
+84403     Pathology                                         Chemistry                                         84403 Assay Total Testosterone 
+98941     Medicine                                          Other                                             98941 Chiropractic Manipulation 
+84481     Pathology                                         Chemistry                                         84481 Free Assay (FT-3) 
+P9603     HCPCS Codes                                       Path/Laboratory                                   P9603 One-way allow prorated miles
+82105     Pathology                                         Chemistry                                         82105 Alpha-Fetoprotein, Serum 
+87902     Pathology                                         Microbiology                                      87902 Genotype, dna, hepatitis C
+80188     Pathology                                         Pathology                                         80188 Assay for Primidone 
+93926     Medicine                                          Non-Invasive Vascular and Diagnostic              93926 Lower Extremity Study 
+88312     Pathology                                         Surgical Pathology                                88312 Special Stains 
+88302     Pathology                                         Surgical Pathology                                88302 Tissue Exam By Pathologist 
+G0127     HCPCS Codes                                       Temporary Codes                                   G0127 Trim nail(s)
+82150     Pathology                                         Chemistry                                         82150 Assay of Amylase 
+88342     Pathology                                         Surgical Pathology                                88342 Immunocytochemistry 
+00103     Anesthesia                                        Anesthesia                                        00103 Anesth, Blepharoplasty 
+93351     Medicine                                          Unknown                                           93351 Stress tte complete
+90715     Medicine                                          Immune Globulins/Immunizations/Vaccines           90715 Tdap vaccine >7 im
+93018     Medicine                                          Cardiovascular, Cardiography                      93018 Cardiovascular Stress Test 
+J3301     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J3301 Triamcinolone acetonide inj
+99212     E&M                                               Low/Moderate Severity                             99212 Office/Outpatient Visit, Est 
+38510     Surgery                                           Hemic/Lymphatic                                   38510 Biopsy/Removal, Lymph Node(s) 
+84445     Pathology                                         Chemistry                                         84445 Thyroid Immunoglobulins Tsi 
+99291     E&M                                               Low/Moderate Severity                             99291 Critical Care, First Hour 
+88188     Pathology                                         Cytopathology/Cytogenetic                         88188 Flowcytometry/read 9-15
+20605     Surgery                                           Muscuoskeletal - General                          20605 Drain/Inject Joint/Bursa 
+91120     Medicine                                          Gastroenterology                                  91120 Rectal sensation test
+78014     Radiology                                         Nuclear Medicine                                  78014 Thyroid imaging w/blood flow
+97535     Medicine                                          Other                                             97535 Self Care Mngment Training 
+G0105     HCPCS Codes                                       Temporary Codes                                   G0105 Colorectal scrn; hi risk ind
+G0180     HCPCS Codes                                       Temporary Codes                                   G0180 MD certification HHA patient
+87340     Pathology                                         Microbiology                                      87340 Hepatitis B Surface AG, EIA
+67028     Surgery                                           Eye                                               67028 Injection Eye Drug 
+85048     Pathology                                         Hematology/Coagulation                            85048 White Blood Cell (Wbc) Count 
+00910     Anesthesia                                        Anesthesia                                        00910 Anesth, Bladder Surgery 
+99214     E&M                                               Moderate/High Severity                            99214 Office/Outpatient Visit, Est 
+99204     E&M                                               Moderate/High Severity                            99204 Office/Outpatient Visit, New 
+87102     Pathology                                         Microbiology                                      87102 Fungus Isolation Culture 
+72195     Radiology                                         MRI                                               72195 Mri pelvis w/o dye
+17263     Surgery                                           Integumentary                                     17263 Destruction of Skin Lesions 
+69100     Surgery                                           Auditory                                          69100 Biopsy of External Ear 
+92960     Medicine                                          Cardiovascular, Therapeutic                       92960 Heart Electroconversion 
+96118     Medicine                                          Unknown                                           96118 Neuropsych tst by psych/phys
+93005     Medicine                                          Cardiovascular, Cardiography                      93005 Electrocardiogram, Tracing 
+70450     Radiology                                         Head/Neck/Chest                                   70450 CAT Scan of Head Or Brain 
+94070     Medicine                                          Pulmonary                                         94070 Evaluation of Wheezing 
+55040     Surgery                                           Male Genital System                               55040 Removal of Hydrocele 
+99309     E&M                                               Low/Moderate Severity                             99309 Nursing fac care subseq
+52648     Surgery                                           Urinary                                           52648 Laser Surgery of Prostate 
+82785     Pathology                                         Chemistry                                         82785 Assay, Gammaglobulin IGE+C955+C979
+86800     Pathology                                         Immunology                                        86800 Thyroglobulin Antibody 
+76645     Radiology                                         Diagnostic Ultrasound                             76645 ECHO Exam of Breast 
+88121     Pathology                                         Cytopathology/Cytogenetic                         88121 Cytp urine 3-5 probes cmptr
+01922     Anesthesia                                        Anesthesia                                        01922 Anesth, CAT or MRI Scan 
+76870     Radiology                                         Diagnostic Ultrasound                             76870 ECHO Exam of Scrotum 
+78315     Radiology                                         Nuclear Medicine                                  78315 Bone Imaging, 3 Phase 
+93880     Medicine                                          Non-Invasive Vascular and Diagnostic              93880 Extracranial Study 
+90960                                                                                                         90960 Esrd srv 4 visits p mo 20+
+77300     Radiology                                         Radiation Oncology                                77300 Radiation Therapy Dose Plan 
+51729     Surgery                                           Urinary                                           51729 Cystometrogram w/vp&up
+85004     Pathology                                         Hematology/Coagulation                            85004 Automated diff wbc count
+90962                                                                                                         90962 Esrd serv 1 visit p mo 20+
+12002     Surgery                                           Integumentary                                     12002 Repair Superficial Wound(s) 
+97116     Medicine                                          Other                                             97116 Gait Training Therapy 
+90853     Medicine                                          Psychiatry & Biofeedback                          90853 Group Psychotherapy 
+66761     Surgery                                           Eye                                               66761 Revision of Iris 
+36475     Surgery                                           Cardiovascular - Arteries/Veins                   36475 Endovenous rf 1st vein
+72052     Radiology                                         Spine & Pelvis                                    72052 X-Ray Exam of Neck Spine 
+36556     Surgery                                           Cardiovascular - Arteries/Veins                   36556 Insert non-tunnel cv cath
+73721     Radiology                                         MRI                                               73721 Magnetic Image, Joint of Leg 
+74249     Radiology                                         Abdomen/GI/Urinary                                74249 Contrast X-Ray Upper GI Tract 
+R0070     HCPCS Codes                                       Diag Radiology                                    R0070 Transport portable x-ray
+97110     Medicine                                          Other                                             97110 Therapeutic Exercises 
+00740     Anesthesia                                        Anesthesia                                        00740 Anesth, GI Visualization 
+11043     Surgery                                           Integumentary                                     11043 Debride Tissue/Muscle 
+70553     Radiology                                         MRI                                               70553 Magnetic Image, Brain 
+72072     Radiology                                         Spine & Pelvis                                    72072 X-Ray Exam of Thoracic Spine 
+52351     Surgery                                           Urinary                                           52351 Cysto
+00210     Anesthesia                                        Anesthesia                                        00210 Anesth, Open Head Surgery 
+87186     Pathology                                         Microbiology                                      87186 Antibiotic Sensitivity, MIC
+Q2036     HCPCS Codes                                       Temporary Codes                                   Q2036 Flulaval vacc, 3 yrs & >, im
+73700     Radiology                                         Lower Extremities                                 73700 CAT Scan of Leg 
+90832     Medicine                                          Psychiatry & Biofeedback                          90832 Psytx pt&/family 30 minutes
+92002     Medicine                                          Ophthalmology                                     92002 Eye Exam, New Patient 
+70250     Radiology                                         Head/Neck/Chest                                   70250 X-Ray Exam of Skull 
+77051     Radiology                                         Unknown                                           77051 Computer dx mammogram add-on
+82523     Pathology                                         Chemistry                                         82523 Collagen Crosslinks 
+93923     Medicine                                          Non-Invasive Vascular and Diagnostic              93923 Extremity Study 
+36558     Surgery                                           Cardiovascular - Arteries/Veins                   36558 Insert tunneled cv cath
+74455     Radiology                                         Abdomen/GI/Urinary                                74455 X-Ray Exam Urethra/Bladder 
+J1020     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J1020 Methylprednisolone 20 MG inj
+11719     Surgery                                           Integumentary                                     11719 Trim Nail(s) 
+11730     Surgery                                           Integumentary                                     11730 Removal of Nail Plate 
+64561     Surgery                                           Nervous                                           64561 Implant neuroelectrodes
+92004     Medicine                                          Ophthalmology                                     92004 Eye Exam, New Patient 
+65850     Surgery                                           Eye                                               65850 Incision of eye
+99221     E&M                                               Low/Moderate Severity                             99221 Initial Hospital Care 
+44140     Surgery                                           Digestive - Intestines                            44140 Partial Removal of Colon 
+27447     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27447 Total Knee Replacement 
+85045     Pathology                                         Hematology/Coagulation                            85045 Reticulocyte Count 
+43249     Surgery                                           Digestive - Mouth/Esophagus                       43249 Esophagus Endoscopy, Dilation 
+85651     Pathology                                         Hematology/Coagulation                            85651 RBC Sed Rate, Nonauto 
+43239     Surgery                                           Digestive - Mouth/Esophagus                       43239 Upper Gi Endoscopy, Biopsy 
+70486     Radiology                                         Head/Neck/Chest                                   70486 CAT Scan of Face, Jaw 
+72131     Radiology                                         Spine & Pelvis                                    72131 CAT Scan of Lower Spine 
+84439     Pathology                                         Chemistry                                         84439 Assay, Free Thyroxine 
+94726     Medicine                                          Pulmonary                                         94726 Pulm funct tst plethysmograp
+95886     Medicine                                          Neurology                                         95886 Musc test done w/n test comp
+82746     Pathology                                         Chemistry                                         82746 Blood Folic Acid Serum 
+43270                                                                                                         43270     Egd lesion ablation
+72192     Radiology                                         Spine & Pelvis                                    72192 CAT Scan of Pelvis 
+80069     Pathology                                         Pathology                                         80069 Renal Function Panel
+93282     Medicine                                          Unknown                                           93282 Icd device progr eval 1 sngl
+45337     Surgery                                           Digestive - Rectum/Anus                           45337 Sigmoidoscopy, Decompression 
+G0279     HCPCS Codes                                       Temporary Codes                                   G0279     Excorp shock tx, elbow epi
+35371     Surgery                                           Cardiovascular - Arteries/Veins                   35371 Rechanneling of Artery 
+26437     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                26437 Realignment of Tendons 
+43260     Surgery                                           Digestive - Mouth/Esophagus                       43260 Endoscopy, Bile Duct/Pancreas 
+92081     Medicine                                          Ophthalmology                                     92081 Visual Field Examination(s) 
+76775     Radiology                                         Diagnostic Ultrasound                             76775 ECHO Exam Abdomen Back Wall 
+G0452     HCPCS Codes                                       Temporary Codes                                   G0452 Molecular pathology interpr
+73565     Radiology                                         Lower Extremities                                 73565 X-Ray Exam of Knee 
+76000     Radiology                                         Veins/Lymphatics                                  76000 Fluoroscope Examination 
+70543     Radiology                                         MRI                                               70543 Mri orbt/fac/nck w/o&w dye
+11100     Surgery                                           Integumentary                                     11100 Biopsy of Skin Lesion 
+99239     E&M                                               Moderate/High Severity                            99239 Hospital Discharge Day 
+73650     Radiology                                         Lower Extremities                                 73650 X-Ray Exam of Heel 
+73520     Radiology                                         Lower Extremities                                 73520 X-Ray Exam of Hips 
+62311     Surgery                                           Nervous                                           62311 Injection Lumbar, Sacral
+95819     Medicine                                          Neurology                                         95819 Electroencephalogram (EEG) 
+77073     Radiology                                         Unknown                                           77073 X-rays bone length studies
+G0462                                                                                                         G0462     Immunohisto/cyto chem add
+82607     Pathology                                         Chemistry                                         82607 Vitamin B-12 
+93306     Medicine                                          Cardiovascular, Echocardiography                  93306 Echocardiography, transthoracic
+36620     Surgery                                           Cardiovascular - Arteries/Veins                   36620 Insertion Catheter, Artery 
+45378     Surgery                                           Digestive - Rectum/Anus                           45378 Diagnostic Colonoscopy 
+74020     Radiology                                         Abdomen/GI/Urinary                                74020 X-Ray Exam of Abdomen 
+90833     Medicine                                          Psychiatry & Biofeedback                          90833 Psytx pt&/fam w/e&m 30 min
+99232     E&M                                               Low/Moderate Severity                             99232 Subsequent Hospital Care 
+76830     Radiology                                         Diagnostic Ultrasound                             76830 ECHO Exam, Transvaginal 
+90686     Medicine                                          Immune Globulins/Immunizations/Vaccines           90686 Flu vac no prsv 4 val 3 yrs+
+87205     Pathology                                         Microbiology                                      87205 Smear, Stain & Interpret 
+51702     OP                                                OP                                                51702 Insert temp bladder cath
+82565     Pathology                                         Chemistry                                         82565 Assay Creatinine 
+95921     Medicine                                          Neurology                                         95921 Autonomic Nervous Function Test 
+97140     Medicine                                          Other                                             97140 Manual Therapy 
+92012     Medicine                                          Ophthalmology                                     92012 Eye Exam, Established Pt 
+92083     Medicine                                          Ophthalmology                                     92083 Visual Field Examination(s) 
+73060     Radiology                                         Upper Extremities                                 73060 X-Ray Exam of Humerus 
+80051     Pathology                                         Pathology                                         80051 Electrolyte Panel 
+83001     Pathology                                         Chemistry                                         83001 Gonadotropin (FSH) 
+82652     Pathology                                         Chemistry                                         82652 Assay, Dihydroxyvitamin D 
+77003     Radiology                                         Unknown                                           77003 Fluoroguide for spine inject
+77295     Radiology                                         Radiation Oncology                                77295 Set Radiation Therapy Field 
+22633     Surgery                                           Muscuoskeletal - Back/Spine/Abdomen               22633 Lumbar spine fusion combined
+74420     Radiology                                         Abdomen/GI/Urinary                                74420 Contrast X-Ray Urinary Tract 
+85027     Pathology                                         Hematology/Coagulation                            85027 Automated Hemogram 
+01482     Anesthesia                                        Anesthesia                                        01482 Anesth, Radical Leg Surgery 
+76098     Radiology                                         Veins/Lymphatics                                  76098 X-Ray Exam, Breast Specimen 
+52354     Surgery                                           Urinary                                           52354 Cystouretero w/biopsy
+73590     Radiology                                         Lower Extremities                                 73590 X-Ray Exam of Lower Leg 
+Q2037     HCPCS Codes                                       Temporary Codes                                   Q2037 Fluvirin vacc, 3 yrs & >, im
+51798     Surgery                                           Urinary                                           51798 Us urine capacity measure
+52310     Surgery                                           Urinary                                           52310 Cystoscopy & Treatment 
+G0206     HCPCS Codes                                       Temporary Codes                                   G0206 Diagnosticmammographydigital
+99306     E&M                                               Low/Moderate Severity                             99306 Nursing facility care init
+11403     Surgery                                           Integumentary                                     11403 Removal of Skin Lesion 
+70480     Radiology                                         Head/Neck/Chest                                   70480 CAT Scan of Skull 
+99285     E&M                                               Moderate/High Severity                            99285 Emergency Dept Visit 
+64450     Surgery                                           Nervous                                           64450 Injection for Nerve Block 
+76770     Radiology                                         Diagnostic Ultrasound                             76770 ECHO Exam Abdomen Back Wall 
+67820     Surgery                                           Eye                                               67820 Revise Eyelashes 
+73090     Radiology                                         Upper Extremities                                 73090 X-Ray Exam of Forearm 
+00190     Anesthesia                                        Anesthesia                                        00190 Anesth, Facial Bone Surgery 
+93451     Medicine                                                                                            93451 Right heart cath
+65855     Surgery                                           Eye                                               65855 Laser Surgery of Eye 
+95910     Medicine                                          Neurology                                         95910 Motor&sens 7-8 nrv cndj test
+11721     Surgery                                           Integumentary                                     11721 Debride Nail, 6 Or More 
+94060     Medicine                                          Pulmonary                                         94060 Evaluation of Wheezing 
+11901     Surgery                                           Integumentary                                     11901 Added Skin Lesions Injection 
+20610     Surgery                                           Muscuoskeletal - General                          20610 Drain/Inject Joint/Bursa 
+Q4018     HCPCS Codes                                       Temporary Codes                                   Q4018 Cast sup lng arm splint fbrg
+70496     Radiology                                         Head/Neck/Chest                                   70496 Ct angiography, head
+47000     Surgery                                           Digestive - Rectum/Anus                           47000 Needle Biopsy of Liver 
+85652     Pathology                                         Hematology/Coagulation                            85652 RBC Sed Rate, Auto 
+99226     E&M                                               Low/Moderate Severity                             99226 Subsequent observation care
+88314     Pathology                                         Surgical Pathology                                88314 Histochemical Stain 
+84134     Pathology                                         Chemistry                                         84134 Prealbumin 
+88300     Pathology                                         Surgical Pathology                                88300 Surg Path, Gross 
+99347     E&M                                               Low/Moderate Severity                             99347 Home Visit, Estab Patient 
+12013     Surgery                                           Integumentary                                     12013 Repair Superficial Wound(s) 
+80186     Pathology                                         Pathology                                         80186 Assay for Phenytoin, Free 
+95810     Medicine                                          Neurology                                         95810 Polysomnography, 4 Or More 
+99316     E&M                                               Moderate/High Severity                            99316 Nursing Fac Discharge Day 
+87070     Pathology                                         Microbiology                                      87070 Culture Specimen, Bacteria 
+74174     Radiology                                         Abdomen/GI/Urinary                                74174 Ct angio abd&pelv w/o&w/dye
+43264     Surgery                                           Digestive - Mouth/Esophagus                       43264 Endoscopy, Bile Duct/Pancreas 
+24500     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                24500 Treat Humerus Fracture 
+51705     Surgery                                           Urinary                                           51705 Change of Bladder Tube 
+92014     Medicine                                          Ophthalmology                                     92014 Eye Exam & Treatment 
+73564     Radiology                                         Lower Extremities                                 73564 X-Ray Exam of Knee, 4+ 
+00840     Anesthesia                                        Anesthesia                                        00840 Anesth, Surg Lower Abdomen 
+84460     Pathology                                         Chemistry                                         84460 Alanine Amino (ALT) (SGPT) 
+51741     Surgery                                           Urinary                                           51741 Electro-Uroflowmetry, First 
+A0427     HCPCS Codes                                       Transportation                                    A0427 ALS1-emergency
+93016     Medicine                                          Cardiovascular, Cardiography                      93016 Cardiovascular Stress Test 
+87389     Pathology                                         Microbiology                                      87389 Hiv-1 ag w/hiv-1 & hiv-2 ab
+64495     Surgery                                           Nervous                                           64495 Inj paravert f jnt l/s 3 lev
+27786     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27786 Treatment of Ankle Fracture 
+43274                                                                                                         43274     Ercp duct stent placement
+94729     Medicine                                          Pulmonary                                         94729 Co/membane diffuse capacity
+93458     Medicine                                          Cardiovascular, Cardiac Cath                      93458 L hrt artery/ventricle angio
+G0121     HCPCS Codes                                       Temporary Codes                                   G0121 Colon ca scrn not hi rsk ind
+11101     Surgery                                           Integumentary                                     11101 Biopsy, Skin Add-on 
+85014     Pathology                                         Hematology/Coagulation                            85014 Hematocrit 
+70544     Radiology                                         MRI                                               70544 Mr angiography head w/o dye
+62270     Surgery                                           Nervous                                           62270 Spinal Fluid Tap, Diagnostic 
+43276                                                                                                         43276     Ercp stent exchange w/dilate
+75978     Radiology                                         Veins/Lymphatics                                  75978 Repair Venous Blockage 
+82247     Pathology                                         Chemistry                                         82247 Bilirubin Total 
+G0103     HCPCS Codes                                       Temporary Codes                                   G0103 Psa, total screening
+94010     Medicine                                          Pulmonary                                         94010 Breathing Capacity Test 
+92556     Medicine                                          ENT                                               92556 Speech Audiometry, Complete 
+93790     Medicine                                          Cardiovascular, Other                             93790 Review/report BP recording
+76705     Radiology                                         Diagnostic Ultrasound                             76705 ECHO Exam of Abdomen 
+29125     Surgery                                           Muscuoskeletal - Casts/Strapping                  29125 Apply Forearm Splint 
+95908     Medicine                                          Neurology                                         95908 Motor&/sens 3-4 nrv cndj tst
+29881     Surgery                                           Muscuoskeletal - Endoscopy/Arthroscopy            29881 Knee Arthroscopy/Surgery 
+43255     Surgery                                           Digestive - Mouth/Esophagus                       43255 Operative Upper Gi Endoscopy 
+A0429     HCPCS Codes                                       Transportation                                    A0429 BLS-emergency
+29105     Surgery                                           Muscuoskeletal - Casts/Strapping                  29105 Apply Long Arm Splint 
+76514     Radiology                                         Diagnostic Ultrasound                             76514 Echo exam of eye, thickness
+95165     Medicine                                          Allergy & Immunology                              95165 Antigen Therapy Services 
+J1030     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J1030 Methylprednisolone 40 MG inj
+72050     Radiology                                         Spine & Pelvis                                    72050 X-Ray Exam of Neck Spine 
+90836     Medicine                                          Psychiatry & Biofeedback                          90836 Psytx pt&/fam w/e&m 45 min
+78306     Radiology                                         Nuclear Medicine                                  78306 Bone Imaging, Whole Body 
+93321     Medicine                                          Cardiovascular, Echocardiography                  93321 Doppler ECHO Exam, Heart 
+22851     Surgery                                           Muscuoskeletal - Back/Spine/Abdomen               22851 Apply Spine Prosth Device 
+A4565     HCPCS Codes                                       Medical & Surgical Supplies                       A4565 Slings
+90870     Medicine                                          Psychiatry & Biofeedback                          90870 Electroconvulsive therapy
+74247     Radiology                                         Abdomen/GI/Urinary                                74247 Contrast X-Ray Upper GI Tract 
+11057     Surgery                                           Integumentary                                     11057 Trim over 4 Skin Lesions 
+51784     Surgery                                           Urinary                                           51784 Anal/Urinary Muscle Study 
+99219     E&M                                               Moderate/High Severity                            99219 Observation Care 
+00320     Anesthesia                                        Anesthesia                                        00320 Anesth, Neck Organ Surgery 
+92226     Medicine                                          Ophthalmology                                     92226 Special Eye Exam, Subsequent 
+85610     Pathology                                         Hematology/Coagulation                            85610 Prothrombin Time 
+99231     E&M                                               Low/Moderate Severity                             99231 Subsequent Hospital Care 
+84154     Pathology                                         Chemistry                                         84154 PSA Free 
+72275     Radiology                                         Spine & Pelvis                                    72275 Epidurography, Radiological Supv & Interpretation
+26040     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                26040 Release Palm Contracture 
+87522     Pathology                                         Microbiology                                      87522 Hepatitis C, RNA, Quant 
+Q2038     HCPCS Codes                                       Temporary Codes                                   Q2038 Fluzone vacc, 3 yrs & >, im
+G0402     HCPCS Codes                                       Temporary Codes                                   G0402 Initial preventive exam
+79005     Radiology                                         Nuclear Medicine                                  79005 Nuclear rx oral admin
+73140     Radiology                                         Upper Extremities                                 73140 X-Ray Exam of Finger(s) 
+73718     Radiology                                         MRI                                               73718 Mri lower extremity w/o dye
+90935     Medicine                                          Dialysis                                          90935 Hemodialysis, One Evaluation 
+99282     E&M                                               Low/Moderate Severity                             99282 Emergency Dept Visit 
+93295     Medicine                                          Unknown                                           93295 Icd device interrogat remote
+80185     Pathology                                         Pathology                                         80185 Assay for Phenytoin 
+75625     Radiology                                         Aorta/Arteries                                    75625 Contrast X-Ray Exam of Aorta 
+70210     Radiology                                         Head/Neck/Chest                                   70210 X-Ray Exam of Sinuses 
+81003     Pathology                                         Urinalysis                                        81003 Urinalysis, Auto, w/o Scope 
+92275     Medicine                                          Ophthalmology                                     92275 Electroretinography 
+38221     Surgery                                           Hemic/Lymphatic                                   38221 Bone marrow biopsy
+72114     Radiology                                         Spine & Pelvis                                    72114 X-Ray Exam of Lower Spine 
+16020     Surgery                                           Integumentary                                     16020 Treatment of Burn(s) 
+93971     Medicine                                          Non-Invasive Vascular and Diagnostic              93971 Extremity Study 
+90662     Medicine                                          Immune Globulins/Immunizations/Vaccines           90662 Flu vacc prsv free inc antig
+83540     Pathology                                         Chemistry                                         83540 Assay Iron 
+00142     Anesthesia                                        Anesthesia                                        00142 Anesthesia for Lens Surgery 
+76856     Radiology                                         Diagnostic Ultrasound                             76856 ECHO Exam of Pelvis 
+00920     Anesthesia                                        Anesthesia                                        00920 Anesth, Genitalia Surgery 
+P9604     HCPCS Codes                                       Path/Laboratory                                   P9604 One-way allow prorated trip
+17110     Surgery                                           Integumentary                                     17110 Destruct Lesion, 1-14 
+00790     Anesthesia                                        Anesthesia                                        00790 Anesth, Surg Upper Abdomen 
+96920     Medicine                                          Other                                             96920 Laser Tx, Skin < 250 Sq Cm
+97597     Medicine                                          Other                                             97597 Rmvl devital tis 20 cm/<
+99201     E&M                                               Low/Moderate Severity                             99201 Office/Outpatient Visit, New 
+29540     Surgery                                           Muscuoskeletal - Casts/Strapping                  29540 Strapping of Ankle 
+00104     Anesthesia                                        Anesthesia                                        00104 Anesth for Electroshock 
+17000     Surgery                                           Integumentary                                     17000 Destroy Benign/Premal Lesion 
+12032     Surgery                                           Integumentary                                     12032 Layer Closure of Wound(s) 
+66984     Surgery                                           Eye                                               66984 Remove Cataract, Insert Lens 
+11750     Surgery                                           Integumentary                                     11750 Removal of Nail Bed 
+88189     Pathology                                         Cytopathology/Cytogenetic                         88189 Flowcytometry/read 16 & >
+73660     Radiology                                         Lower Extremities                                 73660 X-Ray Exam of Toe(s) 
+62284     Surgery                                           Nervous                                           62284 Injection for Myelogram 
+86431     Pathology                                         Immunology                                        86431 Rheumatoid Factor, Quant 
+86753     Pathology                                         Immunology                                        86753 Protozoa, Not Elsewhere 
+43261     Surgery                                           Digestive - Mouth/Esophagus                       43261 Endoscopy, Bile Duct/Pancreas 
+93505     Medicine                                          Cardiovascular, Cardiac Cath                      93505 Biopsy of Heart Lining 
+17250     Surgery                                           Integumentary                                     17250 Chemical Cautery, Tissue 
+66711     Surgery                                           Eye                                               66711 Ciliary endoscopic ablation
+99215     E&M                                               Moderate/High Severity                            99215 Office/Outpatient Visit, Est 
+64640     Surgery                                           Nervous                                           64640 Injection Treatment of Nerve 
+14060     Surgery                                           Integumentary                                     14060 Skin Tissue Rearrangement 
+20937     Surgery                                           Muscuoskeletal - General                          20937 Spinal Bone Autograft 
+52332     Surgery                                           Urinary                                           52332 Cystoscopy & Treatment 
+61520     Surgery                                           Nervous                                           61520 Removal of Brain Lesion 
+Q0092     HCPCS Codes                                       Temporary Codes                                   Q0092 Set up port xray equipment
+80053     Pathology                                         Pathology                                         80053 Comprehensive Metabolic Panel
+97035     Medicine                                          Other                                             97035 Ultrasound Therapy 
+00410     Anesthesia                                        Anesthesia                                        00410 Anesth, Correct Heart Rhythm 
+73221     Radiology                                         MRI                                               73221 Magnetic Image, Joint of Arm 
+47563     Surgery                                           Digestive - Biliary Tract/Pancreas                47563 Lap, Surg; Cholecystectomy with Cholangiography
+71275     Radiology                                         Head/Neck/Chest                                   71275 Ct angiography, chest
+74240     Radiology                                         Abdomen/GI/Urinary                                74240 X-Ray Exam Upper Gi Tract 
+90688     Medicine                                          Immune Globulins/Immunizations/Vaccines           90688 Flu vacc 4 val 3 yrs plus im
+86140     Pathology                                         Immunology                                        86140 C-Reactive Protein 
+90839     Medicine                                          Psychiatry & Biofeedback                          90839 Psytx crisis initial 60 min
+93308     Medicine                                          Cardiovascular, Echocardiography                  93308 ECHO Exam of Heart 
+72158     Radiology                                         MRI                                               72158 Magnetic Image, Lumbar Spine 
+51728     Surgery                                           Urinary                                           51728 Cystometrogram w/vp
+00810     Anesthesia                                        Anesthesia                                        00810 Anesth, Intestine Endoscopy 
+45380     Surgery                                           Digestive - Rectum/Anus                           45380 Colonoscopy and Biopsy 
+92557     Medicine                                          ENT                                               92557 Comprehensive Hearing Test 
+J1040     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J1040 Methylprednisolone 80 MG inj
+72220     Radiology                                         Spine & Pelvis                                    72220 X-Ray Exam of Tailbone 
+74178     Radiology                                         Abdomen/GI/Urinary                                74178 Ct abd & pelv 1/> regns
+80061     Pathology                                         Pathology                                         80061 Lipid Panel 
+82274     Pathology                                         Chemistry                                         82274 Assay test for blood, fecal
+92250     Medicine                                          Ophthalmology                                     92250 Eye Exam with Photos 
+73610     Radiology                                         Lower Extremities                                 73610 X-Ray Exam of Ankle 
+93890     Medicine                                          Non-Invasive Vascular and Diagnostic              93890 Tcd vasoreactivity study
+36569     Surgery                                           Cardiovascular - Arteries/Veins                   36569 Insert tunneled cv cath
+43254                                                                                                         43254     Egd endo mucosal resection
+87521     Pathology                                         Microbiology                                      87521 Hepatitis C, RNA, Amp Probe 
+52281     Surgery                                           Urinary                                           52281 Cystoscopy & Treatment 
+11421     Surgery                                           Integumentary                                     11421 Removal of Skin Lesion 
+88313     Pathology                                         Surgical Pathology                                88313 Special Stains 
+95938     Medicine                                          Neurology                                         95938 Somatosensory testing
+83516     Pathology                                         Chemistry                                         83516 Immunoassay, Non Antibody 
+90961                                                                                                         90961 Esrd srv 2-3 vsts p mo 20+
+01967     Anesthesia                                        Anesthesia                                        01967 Anesth, Neuraxial labor
+85025     Pathology                                         Hematology/Coagulation                            85025 Automated Hemogram 
+86334     Pathology                                         Immunology                                        86334 Immunofixation Procedure 
+G0297     HCPCS Codes                                       Temporary Codes                                   G0297 Insert single chamber/cd
+83970     Pathology                                         Chemistry                                         83970 Assay of Parathormone 
+A9552     HCPCS Codes                                       Radiopharmaceuticals                              A9552 F18 fdg
+72170     Radiology                                         Spine & Pelvis                                    72170 X-Ray Exam of Pelvis 
+11046     Surgery                                           Integumentary                                     11046 Deb musc/fascia add-on
+11042     Surgery                                           Integumentary                                     11042 Debride Skin/Tissue 
+36561     Surgery                                           Cardiovascular - Arteries/Veins                   36561 Insert tunneled cv cath
+74150     Radiology                                         Abdomen/GI/Urinary                                74150 CAT Scan of Abdomen 
+84153     Pathology                                         Chemistry                                         84153 PSA Total 
+64415     Surgery                                           Nervous                                           64415 Injection for Nerve Block 
+J9035     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J9035 Bevacizumab injection
+84165     Pathology                                         Chemistry                                         84165 Assay Serum Proteins 
+26123     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                26123 Release Palm Contracture 
+71020     Radiology                                         Head/Neck/Chest                                   71020 Chest X-Ray 
+88175     Pathology                                         Cytopathology/Cytogenetic                         88175 Cytopath c/v auto fluid redo
+77263     Radiology                                         Radiation Oncology                                77263 Radiation Therapy Planning 
+83036     Pathology                                         Chemistry                                         83036 Glycated Hemoglobin Test 
+93922     Medicine                                          Non-Invasive Vascular and Diagnostic              93922 Extremity Study 
+75716     Radiology                                         Aorta/Arteries                                    75716 Artery X-Rays, Arms/Legs 
+64483     Surgery                                           Nervous                                           64483 Injection, Anesthetic Agent And/Or Steroid
+71101     Radiology                                         Head/Neck/Chest                                   71101 X-Ray Exam of Ribs, Chest 
+91122     Medicine                                          Gastroenterology                                  91122 Anal Pressure Record 
+43760     Surgery                                           Digestive - Stomach                               43760 Change Gastrostomy Tube 
+80184     Pathology                                         Pathology                                         80184 Assay for Phenobarbital 
+36147     Surgery                                           Cardiovascular - Arteries/Veins                   36147 Access av dial grft for eval
+G0439     HCPCS Codes                                       Temporary Codes                                   G0439 PPPS, subseq visit
+88346     Pathology                                         Surgical Pathology                                88346 Immunofluorescent Study 
+70498     Radiology                                         Head/Neck/Chest                                   70498 Ct angiography, neck
+92240     Medicine                                          Ophthalmology                                     92240 Icg Angiography 
+77080     Radiology                                         Unknown                                           77080 Dxa bone density axial
+81002     Pathology                                         Urinalysis                                        81002 Urinalysis Nonauto w/o Scope 
+82044     Pathology                                         Chemistry                                         82044 Microalbumin, Semiquant 
+73070     Radiology                                         Upper Extremities                                 73070 X-Ray Exam of Elbow 
+93970     Medicine                                          Non-Invasive Vascular and Diagnostic              93970 Extremity Study 
+28810     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        28810 Amputation Toe & Metatarsal 
+38220     Surgery                                           Hemic/Lymphatic                                   38220 Bone marrow aspiration
+80178     Pathology                                         Pathology                                         80178 Assay for Lithium 
+99222     E&M                                               Low/Moderate Severity                             99222 Initial Hospital Care 
+93010     Medicine                                          Cardiovascular, Cardiography                      93010 Electrocardiogram Report 
+96921     Medicine                                          Other                                             96921 Laser Tx, Skin 250-500 Sq Cm
+72197     Radiology                                         MRI                                               72197 Mri pelvis w/o & w dye
+86677     Pathology                                         Immunology                                        86677 Helicobacter Pylori 
+87880     Pathology                                         Microbiology                                      87880 Strep A Assay w/Optic 
+78815     Radiology                                         Nuclear Medicine                                  78815 Pet image w/ct skull-thigh
+72132     Radiology                                         Spine & Pelvis                                    72132 Contrast CAT of Lower Spine 
+64636     Surgery                                           Nervous                                           64636 Destroy l/s facet jnt addl
+86580     Pathology                                         Immunology                                        86580 TB Intradermal Test 
+31628     Surgery                                           Respiratory System                                31628 Bronchoscopy with Biopsy 
+73030     Radiology                                         Upper Extremities                                 73030 X-Ray Exam of Shoulder 
+G0145     HCPCS Codes                                       Temporary Codes                                   G0145 Scr c/v cyto,thinlayer,rescr
+A0428     HCPCS Codes                                       Transportation                                    A0428 BLS
+71030     Radiology                                         Head/Neck/Chest                                   71030 Chest X-Ray 
+G0364     HCPCS Codes                                       Temporary Codes                                   G0364 Bone marrow aspirate &biopsy
+99224     E&M                                               Low/Moderate Severity                             99224 Subsequent observation care
+10022     Surgery                                           Integumentary                                     10022 Fna w/image
+76882     Radiology                                         Diagnostic Ultrasound                             76882 Us xtr non-vasc lmtd
+82140     Pathology                                         Chemistry                                         82140 Assay of Ammonia 
+92579     Medicine                                          ENT                                               92579 Visual Audiometry (VRA) 
+00914     Anesthesia                                        Anesthesia                                        00914 Anesth, Removal of Prostate 
+94727     Medicine                                          Pulmonary                                         94727 Pulm function test by gas
+92540     Medicine                                          ENT                                               92540 Basic vestibular evaluation
+G0461                                                                                                         G0461     Immunohisto/cyto chem 1st st
+84132     Pathology                                         Chemistry                                         84132 Assay Serum Potassium 
+73562     Radiology                                         Lower Extremities                                 73562 X-Ray Exam of Knee, 3 
+64493     Surgery                                           Nervous                                           64493 Inj paravert f jnt l/s 1 lev
+99238     E&M                                               Low/Moderate Severity                             99238 Hospital Discharge Day 
+84550     Pathology                                         Chemistry                                         84550 Assay Blood Uric Acid 
+71260     Radiology                                         Head/Neck/Chest                                   71260 Contrast CAT Scan of Chest 
+14061     Surgery                                           Integumentary                                     14061 Skin Tissue Rearrangement 
+21556     Surgery                                           Muscuoskeletal - Neck & Thorax                    21556 Remove Lesion Neck/Chest 
+86317     Pathology                                         Immunology                                        86317 Immunoassay,Infectious Agent 
+88141     Pathology                                         Cytopathology/Cytogenetic                         88141 Cytpath C/Vag Interpret 
+90656     Medicine                                          Immune Globulins/Immunizations/Vaccines           90656 Flu vaccine no preserv 3 & >
+68110     Surgery                                           Eye                                               68110 Remove Eyelid Lining Lesion 
+83615     Pathology                                         Chemistry                                         83615 Lactate (Ld) (Ldh) Enzyme 
+26910     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                26910 Amputate Metacarpal Bone 
+J7324     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J7324 Orthovisc inj per dose
+01402     Anesthesia                                        Anesthesia                                        01402 Anesth, Replacement of Knee 
+73100     Radiology                                         Upper Extremities                                 73100 X-Ray Exam of Wrist 
+31624     Surgery                                           Respiratory System                                31624 Dx Bronchoscope/Lavage 
+84156     Pathology                                         Chemistry                                         84156 Assay of protein, urine
+72040     Radiology                                         Spine & Pelvis                                    72040 X-Ray Exam of Neck Spine 
+35476     Surgery                                           Cardiovascular - Arteries/Veins                   35476 Repair Venous Blockage 
+45385     Surgery                                           Digestive - Rectum/Anus                           45385 Colonoscopy, Lesion Removal 
+J7308     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J7308 Aminolevulinic acid hcl top
+37226     Surgery                                           Cardiovascular - Arteries/Veins                   37226 Fem/popl revasc w/stent
+27535     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27535 Treatment of Knee Fracture 
+93312     Medicine                                          Cardiovascular, Echocardiography                  93312 ECHO Transesophageal 
+31500     Surgery                                           Respiratory System                                31500 Insert Emergency Airway 
+36415     Surgery                                           Cardiovascular - Arteries/Veins                   36415 Drawing Blood 
+19281                                                                                                         19281     Perq device breast 1st imag
+26055     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                26055 Incise Finger Tendon Sheath 
+23350     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                23350 Injection for Shoulder X-Ray 
+99292     E&M                                               Low/Moderate Severity                             99292 Critical Care, Addl 30 Min 
+11602     Surgery                                           Integumentary                                     11602 Removal of Skin Lesion 
+80164     Pathology                                         Pathology                                         80164 Assay, Dipropylacetic Acid 
+83002     Pathology                                         Chemistry                                         83002 Gonadotropin (LH) 
+97112     Medicine                                          Other                                             97112 Neuromuscular Reeducation 
+76377     Radiology                                         Veins/Lymphatics                                  76377 3d render w/intrp postproces
+40801     Surgery                                           Digestive - Mouth/Esophagus                       40801 Drainage of Mouth Lesion 
+90834     Medicine                                          Psychiatry & Biofeedback                          90834 Psytx pt&/family 45 minutes
+80076     Pathology                                         Pathology                                         80076 Hepatic Function Panel
+73120     Radiology                                         Upper Extremities                                 73120 X-Ray Exam of Hand 
+43245     Surgery                                           Digestive - Mouth/Esophagus                       43245 Operative Upper Gi Endoscopy 
+G0399     HCPCS Codes                                       Temporary Codes                                   G0399 Home sleep test/type 3 Porta
+93224     Medicine                                          Cardiovascular, Cardiography                      93224 ECG Monitor/Report, 24 Hrs 
+99495     E&M                                               Low/Moderate Severity                             99495 Trans care mgmt 14 day disch
+J1885     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J1885 Ketorolac tromethamine inj
+11055     Surgery                                           Integumentary                                     11055 Trim Skin Lesion 
+11402     Surgery                                           Integumentary                                     11402 Removal of Skin Lesion 
+84100     Pathology                                         Chemistry                                         84100 Assay Phosphorus 
+29828     Surgery                                           Muscuoskeletal - Endoscopy/Arthroscopy            29828 Arthroscopy biceps tenodesis
+64612     Surgery                                           Nervous                                           64612 Destroy Nerve, Face Muscle 
+87621     Pathology                                         Microbiology                                      87621 HPV, DNA, Amp Probe 
+00530     Anesthesia                                        Anesthesia                                        00530 Anesth, Pacemaker Insertion 
+83721     Pathology                                         Chemistry                                         83721 Blood Lipoprotein Assay 
+92060     Medicine                                          Ophthalmology                                     92060 Special Eye Evaluation 
+78582     Radiology                                         Nuclear Medicine                                  78582 Lung ventilat&perfus imaging
+99217     E&M                                               Low/Moderate Severity                             99217 Observation Care Discharge 
+95806     Medicine                                          Neurology                                         95806 Sleep Study, Unattended 
+92136     Medicine                                          Ophthalmology                                     92136 Ophthalmic biometry
+90732     Medicine                                          Immune Globulins/Immunizations/Vaccines           90732 Pneumococcal Vaccine, Adult 
+72141     Radiology                                         MRI                                               72141 Magnetic Image, Neck Spine 
+92235     Medicine                                          Ophthalmology                                     92235 Eye Exam with Photos 
+92552     Medicine                                          ENT                                               92552 Pure Tone Audiometry, Air 
+96372     Medicine                                          Unknown                                           96372 Ther/proph/diag inj sc/im
+99284     E&M                                               Moderate/High Severity                            99284 Emergency Dept Visit 
+90471     Medicine                                          Immune Globulins/Immunizations/Vaccines           90471 Immunization Admin, Single 
+87591     Pathology                                         Microbiology                                      87591 N.Gonorrhoeae, DNA, Amp Prob 
+82570     Pathology                                         Chemistry                                         82570 Assay Urine Creatinine 
+00400     Anesthesia                                        Anesthesia                                        00400 Anesth, Chest Skin Surgery 
+70551     Radiology                                         MRI                                               70551 Magnetic Image, Brain (MRI) 
+97032     Medicine                                          Other                                             97032 Electrical Stimulation 
+72070     Radiology                                         Spine & Pelvis                                    72070 X-Ray Exam of Thorax Spine 
+01210     Anesthesia                                        Anesthesia                                        01210 Anesth, Hip Joint Surgery 
+81001     Pathology                                         Urinalysis                                        81001 Urinalysis, Auto, w/Scope 
+76519     Radiology                                         Diagnostic Ultrasound                             76519 ECHO Exam of Eye 
+17311     Revenue Code                                      Revenue Code                                      17311 Mohs 1 stage h/n/hf/g
+72110     Radiology                                         Spine & Pelvis                                    72110 X-Ray Exam of Lower Spine 
+92286     Medicine                                          Ophthalmology                                     92286 Internal Eye Photography 
+76942     Radiology                                         Diagnostic Ultrasound                             76942 ECHO Guide for Biopsy 
+93350     Medicine                                          Cardiovascular, Echocardiography                  93350 ECHO Transthoracic 
+J2778     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J2778 Ranibizumab injection
+72125     Radiology                                         Spine & Pelvis                                    72125 CAT Scan of Neck Spine 
+43235     Surgery                                           Digestive - Mouth/Esophagus                       43235 Upper Gi Endoscopy, Diagnosis 
+17004     Surgery                                           Integumentary                                     17004 Destroy 15 & More Lesions 
+98940     Medicine                                          Other                                             98940 Chiropractic Manipulation 
+00140     Anesthesia                                        Anesthesia                                        00140 Anesth, Procedures on Eye 
+87147     Pathology                                         Microbiology                                      87147 Culture Typing, Serologic 
+82533     Pathology                                         Chemistry                                         82533 Total Cortisol 
+11720     Surgery                                           Integumentary                                     11720 Debride Nail, 1-5 
+99315     E&M                                               Low/Moderate Severity                             99315 Nursing Fac Discharge Day 
+51700     Surgery                                           Urinary                                           51700 Irrigation of Bladder 
+93272     Medicine                                          Cardiovascular, Cardiography                      93272 ECG/Review, Interpret Only 
+76817     Radiology                                         Diagnostic Ultrasound                             76817 Transvaginal us, obstetric
+G0432     HCPCS Codes                                       Temporary Codes                                   G0432 EIA HIV-1/HIV-2 screen
+82310     Pathology                                         Chemistry                                         82310 Assay Calcium 
+01830     Anesthesia                                        Anesthesia                                        01830 Anesth, Lower Arm Surgery 
+99225     E&M                                               Low/Moderate Severity                             99225 Subsequent observation care
+84305     Pathology                                         Chemistry                                         84305 Somatomedin 
+84432     Pathology                                         Chemistry                                         84432 Thyroglobulin 
+97001     Medicine                                          Other                                             97001 Pt Evaluation 
+92499     Medicine                                          Ophthalmology                                     92499 Eye Service Or Procedure 
+G0444     HCPCS Codes                                       Temporary Codes                                   G0444 Depression screen annual
+64494     Surgery                                           Nervous                                           64494 Inj paravert f jnt l/s 2 lev
+G0268     HCPCS Codes                                       Temporary Codes                                   G0268 Removal of impacted wax md
+77075     Radiology                                         Unknown                                           77075 X-rays bone survey complete
+74177     Radiology                                         Abdomen/GI/Urinary                                74177 Ct abd & pelv w/contrast
+88311     Pathology                                         Surgical Pathology                                88311 Decalcify Tissue 
+19081                                                                                                         19081     Bx breast 1st lesion strtctc
+71250     Radiology                                         Head/Neck/Chest                                   71250 CAT Scan of Chest 
+64484     Surgery                                           Nervous                                           64484 Injection, Anesthetic Agent And/Or Steroid
+73500     Radiology                                         Lower Extremities                                 73500 X-Ray Exam of Hip 
+64718     Surgery                                           Nervous                                           64718 Revise Ulnar Nerve at Elbow 
+86039     Pathology                                         Immunology                                        86039 Antinuclear Antibodies (ANA) 
+99203     E&M                                               Low/Moderate Severity                             99203 Office/Outpatient Visit, New 
+95923     Medicine                                          Neurology                                         95923 Autonomic nerv function test
+10061     Surgery                                           Integumentary                                     10061 Drainage of Skin Abscess 
+38206     Surgery                                           Hemic/Lymphatic                                   38206 Harvest auto stem cells
+86480     Pathology                                         Immunology                                        86480 Tb test, cell immun measure
+92543     Medicine                                          ENT                                               92543 Caloric Vestibular Test 
+11442     Surgery                                           Integumentary                                     11442 Removal of Skin Lesion 
+69433     Surgery                                           Auditory                                          69433 Create Eardrum Opening 
+88307     Pathology                                         Surgical Pathology                                88307 Tissue Exam By Pathologist 
+70491     Radiology                                         Head/Neck/Chest                                   70491 Contrast CAT of Neck Tissue 
+A0434     HCPCS Codes                                       Transportation                                    A0434 Specialty care transport
+52214     Surgery                                           Urinary                                           52214 Cystoscopy & Treatment 
+99213     E&M                                               Low/Moderate Severity                             99213 Office/Outpatient Visit, Est 
+84520     Pathology                                         Chemistry                                         84520 Assay Urea Nitrogen 
+73080     Radiology                                         Upper Extremities                                 73080 X-Ray Exam of Elbow 
+70547     Radiology                                         MRI                                               70547 Mr angiography neck w/o dye
+87101     Pathology                                         Microbiology                                      87101 Skin Fungus Culture 
+58120     Surgery                                           Female Genital System                             58120 Dilation and Curettage (D&C) 
+Q4049     HCPCS Codes                                       Temporary Codes                                   Q4049 Finger splint, static
+G0453     HCPCS Codes                                       Temporary Codes                                   G0453 Cont intraop neuro monitor
+84155     Pathology                                         Chemistry                                         84155 Assay Protein 
+88305     Pathology                                         Surgical Pathology                                88305 Tissue Exam By Pathologist 
+73000     Radiology                                         Upper Extremities                                 73000 X-Ray Exam of Collarbone 
+92020     Medicine                                          Ophthalmology                                     92020 Special Eye Evaluation 
+88120     Pathology                                         Cytopathology/Cytogenetic                         88120 Cytp urne 3-5 probes ea spec
+86430     Pathology                                         Immunology                                        86430 Rheumatoid Factor Test 
+G0202     HCPCS Codes                                       Temporary Codes                                   G0202 Screeningmammographydigital
+86618     Pathology                                         Immunology                                        86618 Lyme Disease Antibody 
+88173     Pathology                                         Cytopathology/Cytogenetic                         88173 Interpretation of Smear 
+00300     Anesthesia                                        Anesthesia                                        00300 Anesth, Skin Surgery, Neck 
+A9579     HCPCS Codes                                       Radiopharmaceuticals                              A9579 Gad-base MR contrast NOS,1ml
+86376     Pathology                                         Immunology                                        86376 Microsomal Antibody 
+73560     Radiology                                         Lower Extremities                                 73560 X-Ray Exam of Knee, 1 Or 2 
+12001     Surgery                                           Integumentary                                     12001 Repair Superficial Wound(s) 
+99496     E&M                                               Low/Moderate Severity                             99496 Trans care mgmt 7 day disch
+92555     Medicine                                          ENT                                               92555 Speech Threshold Audiometry 
+90847     Medicine                                          Psychiatry & Biofeedback                          90847 Family Psytx w/Patient 
+11603     Surgery                                           Integumentary                                     11603 Removal of Skin Lesion 
+76536     Radiology                                         Diagnostic Ultrasound                             76536 ECHO Exam of Head and Neck 
+43246     Surgery                                           Digestive - Mouth/Esophagus                       43246 Place Gastrostomy Tube 
+82962     Pathology                                         Chemistry                                         82962 Glucose Blood Test 
+86803     Pathology                                         Immunology                                        86803 Hepatitis C Ab Test 
+73630     Radiology                                         Lower Extremities                                 73630 X-Ray Exam of Foot 
+73620     Radiology                                         Lower Extremities                                 73620 X-Ray Exam of Foot 
+27880     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27880 Amputation of Lower Leg 
+17280     Surgery                                           Integumentary                                     17280 Destruction of Skin Lesions 
+92225     Medicine                                          Ophthalmology                                     92225 Special Eye Exam, Initial 
+95913     Medicine                                          Neurology                                         95913 Motor&sens 13/> nrv cnd test
+36246     Surgery                                           Cardiovascular - Arteries/Veins                   36246 Place Catheter In Artery 
+31575     Surgery                                           Respiratory System                                31575 Diagnostic Laryngoscopy 
+90837     Medicine                                          Psychiatry & Biofeedback                          90837 Psytx pt&/family 60 minutes
+86077     Pathology                                         Immunology                                        86077 Physician Blood Bank Service 
+74220     Radiology                                         Abdomen/GI/Urinary                                74220 Contrast X-Ray Exam, Esophagus 
+99304     E&M                                               Low/Moderate Severity                             99304 Nursing facility care init
+73550     Radiology                                         Lower Extremities                                 73550 X-Ray Exam of Thigh 
+95004     Medicine                                          Allergy & Immunology                              95004 Allergy Skin Tests 
+90791     Medicine                                          Therapeutic Infusions/Injections (w/o chemo)      90791 Psych diagnostic evaluation
+29846     Surgery                                           Muscuoskeletal - Endoscopy/Arthroscopy            29846 Wrist Arthroscopy/Surgery 
+95911     Medicine                                          Neurology                                         95911 Motor&sen 9-10 nrv cndj test
+74230     Radiology                                         Abdomen/GI/Urinary                                74230 Cinema X-Ray Throat/Esophagus 
+84295     Pathology                                         Chemistry                                         84295 Assay Serum Sodium 
+52300     Surgery                                           Urinary                                           52300 Cystoscopy & Treatment 
+Q0111     HCPCS Codes                                       Temporary Codes                                   Q0111 Wet mounts/ w preparations
+99236     E&M                                               Moderate/High Severity                            99236 Observ/Hosp Same Date 
+G0447     HCPCS Codes                                       Temporary Codes                                   G0447 Behavior counsel obesity 15m
+G0179     HCPCS Codes                                       Temporary Codes                                   G0179 MD recertification HHA PT
+G0328     HCPCS Codes                                       Temporary Codes                                   G0328 Fecal blood scrn immunoassay
+66982     Surgery                                           Eye                                               66982 Cataract surgery, complex
+99283     E&M                                               Low/Moderate Severity                             99283 Emergency Dept Visit 
+67924     Surgery                                           Eye                                               67924 Repair Eyelid Defect 
+00670     Anesthesia                                        Anesthesia                                        00670 Anesth, Spine, Cord Surgery 
+86592     Pathology                                         Immunology                                        86592 Blood Serology, Qualitative 
+59400     Surgery                                           Maternity Care & Delivery                         59400 Obstetrical Care 
+82728     Pathology                                         Chemistry                                         82728 Assay Ferritin 
+52000     Surgery                                           Urinary                                           52000 Cystoscopy 
+G0431     HCPCS Codes                                       Temporary Codes                                   G0431 Drug screen multiple class
+81000     Pathology                                         Urinalysis                                        81000 Urinalysis, Nonauto, w/Scope 
+20680     Surgery                                           Muscuoskeletal - General                          20680 Removal of Support Implant 
+97002     Medicine                                          Other                                             97002 Pt Re-Evaluation 
+92611     Medicine                                          Unknown                                           92611 Motion fluoroscopy/swallow
+40812     Surgery                                           Digestive - Mouth/Esophagus                       40812 Excise/Repair Mouth Lesion 
+99310     E&M                                               Low/Moderate Severity                             99310 Nursing fac care subseq
+58555     Surgery                                           Female Genital System                             58555 Hysteroscopy, Diagnostic
+80299     Pathology                                         Pathology                                         80299 Quantitative Assay, Drug 
+G0101     HCPCS Codes                                       Temporary Codes                                   G0101 CA screen;pelvic/breast exam
+74170     Radiology                                         Abdomen/GI/Urinary                                74170 Contrast CAT Scans, Abdomen 
+17003     Surgery                                           Integumentary                                     17003 Destroy 2-14 Lesions 
+01630     Anesthesia                                        Anesthesia                                        01630 Anesth, Surgery of Shoulder 
+87491     Pathology                                         Microbiology                                      87491 Chylmd Trach, DNA, Amp Probe 
+87081     Pathology                                         Microbiology                                      87081 Bacteria Culture Screen 
+46083     Surgery                                           Digestive - Rectum/Anus                           46083 Incise External Hemorrhoid 
+00952     Anesthesia                                        Anesthesia                                        00952 Anesth, Uterine Endoscopy 
+62272     Surgery                                           Nervous                                           62272 Drain Spinal Fluid 
+74000     Radiology                                         Abdomen/GI/Urinary                                74000 X-Ray Exam of Abdomen 
+84443     Pathology                                         Chemistry                                         84443 Assay Thyroid Stim Hormone 
+82784     Pathology                                         Chemistry                                         82784 Assay Gammaglobulin IGM
+92542     Medicine                                          ENT                                               92542 Positional Nystagmus Test 
+74176     Radiology                                         Abdomen/GI/Urinary                                74176 Ct abd & pelvis
+77052     Radiology                                         Unknown                                           77052 Comp screen mammogram add-on
+88304     Pathology                                         Surgical Pathology                                88304 Tissue Exam By Pathologist 
+17111     Surgery                                           Integumentary                                     17111 Destruct Lesion, 15 Or More 
+A0425     HCPCS Codes                                       Transportation                                    A0425 Ground mileage
+85018     Pathology                                         Hematology/Coagulation                            85018 Hemoglobin 
+27137     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27137 Revise Hip Joint Replacement 
+01400     Anesthesia                                        Anesthesia                                        01400 Anesth, Knee Joint Surgery 
+99202     E&M                                               Low/Moderate Severity                             99202 Office/Outpatient Visit, New 
+76700     Radiology                                         Diagnostic Ultrasound                             76700 ECHO Exam of Abdomen 
+45330     Surgery                                           Digestive - Rectum/Anus                           45330 Sigmoidoscopy, Diagnostic 
+90670     Medicine                                          Immune Globulins/Immunizations/Vaccines           90670 Pneumococcal vacc 13 val im
+92567     Medicine                                          ENT                                               92567 Tympanometry 
+82550     Pathology                                         Chemistry                                         82550 Assay CK (CPK) 
+93454     Medicine                                          Cardiovascular, Cardiac Cath                      93454 Coronary artery angio s&i
+70150     Radiology                                         Head/Neck/Chest                                   70150 X-Ray Exam of Facial Bones 
+78452     Radiology                                         Nuclear Medicine                                  78452 Ht muscle image spect mult
+93325     Medicine                                          Cardiovascular, Echocardiography                  93325 Doppler Color Flow Add-on 
+87077     Pathology                                         Microbiology                                      87077 Culture aerobic identify
+83880     OP                                                OP                                                83880 Natriuretic peptide
+77280     Radiology                                         Radiation Oncology                                77280 Set Radiation Therapy Field 
+93886     Medicine                                          Non-Invasive Vascular and Diagnostic              93886 Intracranial Study 
+62165     Surgery                                           Nervous                                           62165 Remove pituit tumor w/scope
+19301     Surgery                                           Integumentary                                     19301 Partical mastectomy
+77002     Radiology                                         Unknown                                           77002 Needle localization by xray
+28470     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        28470 Treat Metatarsal Fracture 
+00532     Anesthesia                                        Anesthesia                                        00532 Anesth, Vascular Access 
+82306     Pathology                                         Chemistry                                         82306 Assay of Vitamin D 
+22840     Surgery                                           Muscuoskeletal - Back/Spine/Abdomen               22840 Insert Spine Fixation Device 
+80048     Pathology                                         Pathology                                         80048 Basic Metabolic Panel
+99307     E&M                                               Low/Moderate Severity                             99307 Nursing fac care subseq
+27487     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27487 Revise Knee Joint Replace 
+77427     Radiology                                         Radiation Oncology                                77427 Radiation Treatment Management, Five Treatments
+15260     Surgery                                           Integumentary                                     15260 Skin Full Graft 
+77290     Radiology                                         Radiation Oncology                                77290 Set Radiation Therapy Field 
+77334     Radiology                                         Radiation Oncology                                77334 Radiation Treatment Aid(s) 
+92134     Medicine                                          Ophthalmology                                     92134 Cptr ophth dx img post segmt
+76872     Radiology                                         Diagnostic Ultrasound                             76872 ECHO Exam, Transrectal 
+66821     Surgery                                           Eye                                               66821 After Cataract Laser Surgery 
+28230     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        28230 Incision of foot tendon(s)
+99233     E&M                                               Low/Moderate Severity                             99233 Subsequent Hospital Care 
+69210     Surgery                                           Auditory                                          69210 Remove Impacted Ear Wax 
+92550     Medicine                                          ENT                                               92550 Tympanometry & reflex thresh
+99235     E&M                                               Moderate/High Severity                            99235 Observ/Hosp Same Date 
+73510     Radiology                                         Lower Extremities                                 73510 X-Ray Exam of Hip 
+31540     Surgery                                           Respiratory System                                31540 Operative Laryngoscopy 
+88321     Pathology                                         Surgical Pathology                                88321 Microslide Consultation 
+99305     E&M                                               Low/Moderate Severity                             99305 Nursing facility care init
+64635     Surgery                                           Nervous                                           64635 Destroy lumb/sac facet jnt
+85097     Pathology                                         Hematology/Coagulation                            85097 Bone Marrow Interpretation 
+73010     Radiology                                         Upper Extremities                                 73010 X-Ray Exam of Shoulder Blade 
+98942     Medicine                                          Other                                             98942 Chiropractic Manipulation 
+95971     Medicine                                          Neurology                                         95971 Simple Neurostim Analyze 
+72100     Radiology                                         Spine & Pelvis                                    72100 X-Ray Exam of Lower Spine 
+J7321     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J7321 Hyalgan/supartz inj per dose
+Q4022     HCPCS Codes                                       Temporary Codes                                   Q4022 Cast sup sht arm splint fbrg
+37607     Surgery                                           Cardiovascular - Arteries/Veins                   37607 Ligation of Fistula 
+01480     Anesthesia                                        Anesthesia                                        01480 Anesth, Lower Leg Bone Surg 
+78708     Radiology                                         Nuclear Medicine                                  78708 Kidney Flow & Function Image 
+40830     Surgery                                           Digestive - Mouth/Esophagus                       40830 Repair Mouth Laceration 
+22612     Surgery                                           Muscuoskeletal - Back/Spine/Abdomen               22612 Lumbar Spine Fusion 
+91010     Medicine                                          Gastroenterology                                  91010 Esophagus Motility Study 
+87088     Pathology                                         Microbiology                                      87088 Urine Bacteria Culture 
+96567     Medicine                                          Unknown                                           96567 Photodynamic tx, skin
+95811     Medicine                                          Neurology                                         95811 Polysomnography w/CPAP
+12053     Surgery                                           Integumentary                                     12053 Layer Closure of Wound(s) 
+G0438     HCPCS Codes                                       Temporary Codes                                   G0438 PPPS, initial visit
+99223     E&M                                               Low/Moderate Severity                             99223 Initial Hospital Care 
+90792     Medicine                                          Therapeutic Infusions/Injections (w/o chemo)      90792 Psych diag eval w/med srvcs
+93975     Medicine                                          Non-Invasive Vascular and Diagnostic              93975 Vascular Study 
+84480     Pathology                                         Chemistry                                         84480 Assay Triiodothyronine (T-3) 
+27130     Surgery                                           Muscuoskeletal - Pelvis/Hip/Leg/Ankle/Foot        27130 Total Hip Replacement 
+63048     Surgery                                           Nervous                                           63048 Remove Spinal Lamina Add-on 
+95117     Medicine                                          Allergy & Immunology                              95117 Immunotherapy Injections 
+G0009     HCPCS Codes                                       Temporary Codes                                   G0009 Admin pneumococcal vaccine
+82043     Pathology                                         Chemistry                                         82043 Microalbumin, Quantitative 
+25275     Surgery                                           Muscuoskeletal - Shoulder/Arm/Hand                25275 Repair forearm tendon sheath
+76815     Radiology                                         Diagnostic Ultrasound                             76815 ECHO Exam of Pregnant Uterus 
+74183     Radiology                                         MRI                                               74183 Mri abdomen w/o&w dye
+92025     Medicine                                          Ophthalmology                                     92025 Corneal topography
+71035     Radiology                                         Head/Neck/Chest                                   71035 Chest X-Ray 
+A0426     HCPCS Codes                                       Transportation                                    A0426 ALS 1
+73130     Radiology                                         Upper Extremities                                 73130 X-Ray Exam of Hand 
+83861     Pathology                                         Chemistry                                         83861 Microfluid analy tears
+68761     Surgery                                           Eye                                               68761 Close Tear Duct Opening 
+97530     Medicine                                          Other                                             97530 Therapeutic Activities 
+82465     Pathology                                         Chemistry                                         82465 Assay Serum Cholesterol 
+92547     Medicine                                          ENT                                               92547 Supplemental Electrical Test 
+73020     Radiology                                         Upper Extremities                                 73020 X-Ray Exam of Shoulder 
+99211     E&M                                               Low/Moderate Severity                             99211 Office/Outpatient Visit, Est 
+J7611     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J7611 Albuterol non-comp con
+87206     Pathology                                         Microbiology                                      87206 Smear, Stain & Interpret 
+64721     Surgery                                           Nervous                                           64721 Carpal Tunnel Surgery 
+51797     Surgery                                           Urinary                                           51797 Intraabdominal Pressure Test 
+88112     Pathology                                         Cytopathology/Cytogenetic                         88112 Cytopath, cell enhance tech
+G0283     HCPCS Codes                                       Temporary Codes                                   G0283 Elec stim other than wound
+93280     Medicine                                          Unknown                                           93280 Pm device progr eval dual
+99205     E&M                                               Moderate/High Severity                            99205 Office/Outpatient Visit, New 
+J0702     HCPCS Codes                                       Drugs Admin Other Than Oral Method                J0702 Betamethasone acet&sod phosp
+Q0091     HCPCS Codes                                       Temporary Codes                                   Q0091 Obtaining screen pap smear
