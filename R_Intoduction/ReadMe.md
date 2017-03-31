@@ -10,7 +10,8 @@ File descriptions
 -----------------
 
 -   *R\_Introduction.Rproj: Rstudio Project Data File*
--   *ReadMe.Rmd: Read Me document for Learning R and using the Scripts*
+-   *ReadMe.md: Read Me document for Learning R and using the Scripts*
+-   *ReadMe.Rmd: Rmarkdown for creating github markdown readme*
 -   **/R\_Code**
     -   *AnalyticsBootCamp.R: R Code used in the R Introduction. Follows the Sample SQL Scripts.sql using R code.*
     -   *example\_plots.R: Example plots pulled from various websites*
