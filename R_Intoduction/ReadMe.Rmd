@@ -20,7 +20,10 @@ knitr::opts_chunk$set(echo = TRUE)
       
     * *tufte_R.R: Examples of Tufte Style Plots*  
       http://motioninsocial.com/tufte/  
-      
+    
+If you have any questions feel free to email me at:
+smuthersbaugh@kpmg.com or  
+smuthersbaugh@me.com  
 
 ## 
 Below are a lots of links to help guide you in learning R.

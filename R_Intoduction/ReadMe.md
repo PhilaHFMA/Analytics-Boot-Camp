@@ -20,6 +20,9 @@ File descriptions
     -   *tufte\_R.R: Examples of Tufte Style Plots*
         <http://motioninsocial.com/tufte/>
 
+If you have any questions feel free to email me at: <smuthersbaugh@kpmg.com> or
+<smuthersbaugh@me.com>
+
 Below are a lots of links to help guide you in learning R. The awesome-r website has a lot of useful information about R. They spent a lot of time compiling all this information into one site. Its worth taking a look. <https://awesome-r.com/>
 
 This site has a list of R books.
